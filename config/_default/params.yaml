@@ -23,16 +23,16 @@ twitter: ''
 email: noreply@example.org
 phone: +49 888 88 88
 address:
-  street: 450 Serra Mall
+  street: ""
   city: Göttingen
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  region: Niedersachsen
+  postcode: '37083'
+  country: Germany
+  country_code: DEU
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: ""
+  longitude: ""
+directions: Enter Building turn 42 times, walk back out
 office_hours:
   - 'upon request'
 appointment_url: 'https://calendly.com'
@@ -40,19 +40,11 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: ""
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: ""
 
 # Site header
 
