@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: noreply@example.org
-phone: +49 888 88 88
+email: felix.suettmann@gmail.com
+phone: ""
 address:
   street: ""
   city: Göttingen
@@ -35,16 +35,16 @@ coordinates:
 directions: Enter Building turn 42 times, walk back out
 office_hours:
   - 'upon request'
-appointment_url: 'https://calendly.com'
+appointment_url: ""
 contact_links:
-  - icon: twitter
+  - icon: instagram
     icon_pack: fab
     name: DM Me
-    link: ""
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: ""
+    link: "https://www.instagram.com/mountainsharks/"
+#   - icon: skype
+#     icon_pack: fab
+#     name: Skype Me
+#     link: ""
 
 # Site header
 
