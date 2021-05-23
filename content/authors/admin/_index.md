@@ -48,6 +48,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/felix-s%C3%BCttmann-7a178011a/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9406-259X
   
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
