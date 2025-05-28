@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: ""
   longitude: ""
-directions: Enter Building turn 42 times, walk back out
+directions: masked
 office_hours:
   - 'upon request'
 appointment_url: ""
@@ -40,7 +40,7 @@ contact_links:
   - icon: instagram
     icon_pack: fab
     name: DM Me
-    link: "https://www.instagram.com/mountainsharks/"
+    link:
 #   - icon: skype
 #     icon_pack: fab
 #     name: Skype Me
